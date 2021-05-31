@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohit2021git&label=Profile%20views&color=0e75b6&style=flat" alt="mohit2021git" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit2021git" alt="mohit2021git" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohit2021git" alt="mohitsubsemwal" /></a> </p>
 
 - 🔭 I’m currently working on **Neural Networks**
 
